@@ -38,3 +38,6 @@ pip install autopep8
 # and yapf for code formatting
 pip install yapf
 pip install opencv-python
+
+
+sudo snap install intellij-idea-educational --classic
